@@ -93,4 +93,4 @@ The dashboard is designed to support **data-driven decision-making** by presenti
 
 If you found this project useful or have suggestions for improvement, feel free to connect with me on **LinkedIn** or explore my other projects on **GitHub**.
 
-👉 [LinkedIn Profile](www.linkedin.com/in/hadeeraltabaajuniorwebdeveloper)
+👉 [LinkedIn Profile](https://www.linkedin.com/in/hadeeraltabaajuniorwebdeveloper)
