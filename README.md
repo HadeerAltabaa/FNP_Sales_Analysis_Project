@@ -63,7 +63,7 @@ The dashboard is designed to support **data-driven decision-making** by presenti
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](FNP - 2.png)
+![FNP - 2](FNP - 2.png)
 
 ---
 
